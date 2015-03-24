@@ -37,10 +37,18 @@ When reading the file in, the combination CR/LF followed by whitespace is treate
 <br>
 The parser supports the following operations:
 <br>
+<br>
 Create a parser object given a file name.
+<br>
 Get a string value associated with a given section and key names.
+<br>
 Get an integer value associated with a given section and key names.
+<br>
 Get a floating point value associated with a given section and key names.
+<br>
 Set a string value for a given section and key names, writing the new file to disk.
+<br>
 Set an integer value for a given section and key names, writing the new file to disk.
+<br>
 Set a floating point value for a given section and key names, writing the new file to disk.
+<br>
