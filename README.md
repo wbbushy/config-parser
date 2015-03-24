@@ -1,5 +1,5 @@
 # config-parser
-Parser to read and write a config file
+Parser to read and write a config file. Done as an exercise/challenge
 <br>
 <br>
 The file follow these rules
